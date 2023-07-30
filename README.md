@@ -51,11 +51,7 @@ Top 5 customers:
 - Electricalsara Stores is the biggest customer, generating ₹413M in revenue over 4 years.
 
 Top 5 products:
-- Prod318 is the highest revenue-generating product, generating ₹69M in revenue over 4 years.
-
-Product type revenue:
-- Distribution generated ₹494M in revenue.
-- Ownbrand generated ₹494M in revenue over 4 years.
+- Apart from the blank, product 040 is the highest revenue-generating product, generating ₹69M in revenue over 4 years.
 
 Revenue trend:
 - June 2020 experienced a drastic decrease in revenue compared to the previous year, and April 2020 had the least profit margin.
